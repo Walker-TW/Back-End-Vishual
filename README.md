@@ -14,7 +14,7 @@ Once installed, clone the repository and install its dependencies running:
 
     $ npm install
 
-## Running the examples
+## Running the examples 
 
 In order to run the Authorization Code flow do:
 
