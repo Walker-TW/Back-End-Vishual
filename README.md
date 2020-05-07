@@ -2,7 +2,7 @@
 
 This is the back end to the Vishual Project, a music visualiser that runs in the browser using the Spotify API.
 
-## Spotify Accounts Authentication
+## Spotify Accounts Authentication 
 
 This project contains the code for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
 
